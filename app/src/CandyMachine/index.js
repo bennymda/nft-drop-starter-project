@@ -4,7 +4,7 @@ import { Program, Provider, web3 } from '@project-serum/anchor';
 import { MintLayout, TOKEN_PROGRAM_ID, Token } from '@solana/spl-token';
 import { sendTransactions } from './connection';
 import './CandyMachine.css';
-import CountdownTimer from '../CountdownTimer' ;
+import CountdownTimer from '..,/CountdownTimer' ;
 import {
   candyMachineProgram,
   TOKEN_METADATA_PROGRAM_ID,
