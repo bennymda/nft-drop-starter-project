@@ -1,0 +1,19 @@
+{
+    "name": "Lautaro Martinez Inter",
+    "symbol": "INT2",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6TLfsmaCgzA2zBuq7BVDStevff7UgpKcjLBzpjZUv2am",
+          "share": 100
+        }
+      ]
+    }
+  }
